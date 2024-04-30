@@ -949,14 +949,7 @@ a:hover{
   top: 220px;
 }
 
-/* media queries */
-
-@media only screen and (max-width:991px){
-    html{
-        
-    }
-}
-
+/* media queries 
 @media screen and (min-width: 1200px) {
     .html{
       font-size: 20%;
@@ -978,4 +971,4 @@ a:hover{
       height: 80%;
       margin: 1%;
     }
-}
+}*/
